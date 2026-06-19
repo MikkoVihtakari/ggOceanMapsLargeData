@@ -40,13 +40,20 @@ vignettes/*.pdf
 inst/doc
 
 # README.html
-
 README.html
 
-# MAC specific
-
+# Mac specific
 .DS_Store
+.AppleDouble
+.LSOverride
 
-# Rstudio project
+# Windows specific
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
 
+# RStudio project files
 *.Rproj
